@@ -50,4 +50,5 @@
 
 
 ### В проекте используются пакеты
-
+    1. enough_mail:  https://pub.dev/packages/enough_mail
+    2. flutter_http: https://pub.dev/packages/http
